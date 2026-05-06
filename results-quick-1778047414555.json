@@ -1,0 +1,124 @@
+{
+  "bestContent": {
+    "id": 2,
+    "style": "howTo",
+    "hashtagMix": "hiddenGems",
+    "optimizedTitle": "How to Master AI automation in 2026 (Step-by-Step)",
+    "description": "AI automation: The AI automation Secret Nobody Talks About. Learn the exact strategies that work in 2026.\n\n⏱️ TIMESTAMPS:\n00:00 - AI automation - Quick Overview\n01:30 - The Strategy That Works\n05:00 - Common Mistakes to Avoid\n08:00 - Real Results & Examples\n\n🔥 #TechTrends #FutureTech #DigitalTransformation #Innovation #ContentCreation\n\n👉 Subscribe for more content like this!\n💬 Drop a comment with your thoughts!\n\n🔗 RESOURCES:\nFree Resources: https://yourwebsite.com/resources\n",
+    "hashtags": [
+      "#TechTrends",
+      "#FutureTech",
+      "#DigitalTransformation",
+      "#Innovation",
+      "#ContentCreation"
+    ],
+    "chapters": [
+      {
+        "time": "00:00",
+        "title": "AI automation - Quick Overview"
+      },
+      {
+        "time": "01:30",
+        "title": "The Strategy That Works"
+      },
+      {
+        "time": "05:00",
+        "title": "Common Mistakes to Avoid"
+      },
+      {
+        "time": "08:00",
+        "title": "Real Results & Examples"
+      }
+    ],
+    "seoScore": 80,
+    "ctr": 0.07484446970252566,
+    "avgViewDuration": 238.86331950563,
+    "engagement": 1.7877598479783832,
+    "finalScore": 117.87759847978383
+  },
+  "abTests": [
+    {
+      "iteration": 1,
+      "winner": "howTo",
+      "ctr": 0.07484446970252566,
+      "avgViewDuration": 238.86331950563,
+      "score": 117.87759847978383
+    },
+    {
+      "iteration": 2,
+      "winner": "urgency",
+      "ctr": 0.06962551557237484,
+      "avgViewDuration": 203.55713899398177,
+      "score": 114.17277075089355
+    },
+    {
+      "iteration": 3,
+      "winner": "curiosity",
+      "ctr": 0.07130120094885971,
+      "avgViewDuration": 200.11587023135627,
+      "score": 114.26850187642187
+    },
+    {
+      "iteration": 4,
+      "winner": "curiosity",
+      "ctr": 0.07880600833584693,
+      "avgViewDuration": 212.30971414646632,
+      "score": 116.7312811028077
+    },
+    {
+      "iteration": 5,
+      "winner": "curiosity",
+      "ctr": 0.07057599756322172,
+      "avgViewDuration": 200.57319862384534,
+      "score": 114.1556535773241
+    },
+    {
+      "iteration": 6,
+      "winner": "howTo",
+      "ctr": 0.05441335357766715,
+      "avgViewDuration": 247.24372932658343,
+      "score": 113.45336046370842
+    },
+    {
+      "iteration": 7,
+      "winner": "curiosity",
+      "ctr": 0.08000439567598601,
+      "avgViewDuration": 188.3026091690008,
+      "score": 115.06503645077728
+    },
+    {
+      "iteration": 8,
+      "winner": "urgency",
+      "ctr": 0.07979153888339673,
+      "avgViewDuration": 193.4769357466766,
+      "score": 115.4378224416714
+    },
+    {
+      "iteration": 9,
+      "winner": "curiosity",
+      "ctr": 0.08058259682354213,
+      "avgViewDuration": 198.07448920191686,
+      "score": 115.96135670438711
+    },
+    {
+      "iteration": 10,
+      "winner": "urgency",
+      "ctr": 0.07296851228464821,
+      "avgViewDuration": 183.49524071942585,
+      "score": 113.3893747266099
+    }
+  ],
+  "weights": {
+    "titleLength": 1,
+    "hasNumbers": 1.5000000000000004,
+    "hasYear": 1,
+    "curiosityWords": 1.5000000000000004,
+    "hashtagMix": 1.2000000000000002
+  },
+  "summary": {
+    "totalTests": 10,
+    "bestScore": 117.87759847978383,
+    "bestCTR": 0.07484446970252566,
+    "bestAvgViewDuration": 238.86331950563
+  }
+}
